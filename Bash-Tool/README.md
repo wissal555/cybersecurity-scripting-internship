@@ -33,8 +33,7 @@ sudo ./tool.sh /var/log/auth.log ssh
 ```
 
 ## Example Output
-(paste your real output here + screenshots)
-![SSH analysis](screenshots/ssh_analysis.png)
+![SSH analysis](screenshots/Output.png)
 
 ## Challenges Faced
 - Order of the checks (help, number of arguments, file, then analysis)
