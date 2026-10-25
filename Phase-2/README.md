@@ -51,7 +51,8 @@ sudo ./tool.sh > /dev/null && echo "No FAIL found"
 ## Example Output
 Full test: audit with insecure settings, then after fixing them.
 
-![Hardening audit](screenshots/Output.png)
+![Hardening audit](screenshots/01-before.png)
+![Hardening audit](screenshots/02-after.png)
 
 ## Challenges Faced
 - Reading SSH options correctly (main file and `sshd_config.d/`)
