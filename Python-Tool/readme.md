@@ -47,11 +47,11 @@ python3 tool.py check ./test baseline.json
 ## Example Output
 Help message:
 
-![Help](screenshots/01-help.png)
+![Help](screenchots/01-help.png)
 
 Saving baseline and detecting changes :
 
-![Save](screenshots/01-save-check.png)
+![Save](screenchots/01-save-check.png)
 
 
 ## Challenges Faced
