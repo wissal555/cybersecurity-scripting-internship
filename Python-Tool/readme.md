@@ -49,13 +49,10 @@ Help message:
 
 ![Help](screenshots/01-help.png)
 
-Saving the baseline:
+Saving baseline and detecting changes :
 
-![Save](screenshots/02-save.png)
+![Save](screenshots/01-save-check.png)
 
-Detecting changes:
-
-![Check](screenshots/03-check.png)
 
 ## Challenges Faced
 - Reading large files without loading them fully in memory
